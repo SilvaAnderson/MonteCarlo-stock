@@ -1,0 +1,4 @@
+,var_95_historico,var_95_monte_carlo,cvar_95_historico,cvar_95_monte_carlo,drawdown_maximo_historico,drawdown_maximo_monte_carlo,indice_sharpe_anualizado_historico,indice_sharpe_anualizado_monte_carlo,kurtosis_historico,kurtosis_monte_carlo,z_score_historico,z_score_monte_carlo
+ITUB4.SA,0.0231,0.2212,0.0335,0.2994,-0.3587,-0.2116,0.7064,0.5810,20.6117,0.0026,0.0451,1.2688
+PETR4.SA,0.0307,0.1742,0.0482,0.2592,-0.3910,-0.2277,1.2371,1.0938,2.6838,0.0042,-0.7719,-0.3744
+VALE3.SA,0.0299,0.3937,0.0400,0.4631,-0.4134,-0.2887,0.1089,-0.0226,2.0304,0.0030,-0.1918,-0.1581
