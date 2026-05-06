@@ -142,11 +142,15 @@ Salve as capturas em `docs/screenshots/` para que apareçam no README.
 
 ### Visão geral
 
-![Aba de ativo](docs/screenshots/aba-ativo.png)
+![Aba de ITUB4](docs/screenshots/Itau-tab.PNG)
 
-![Comparativo geral](docs/screenshots/aba-comparativo.png)
+[Aba de VALE3](docs/screenshots/Vale-tab.PNG)
 
-![Aba de notícias](docs/screenshots/aba-noticias.png)
+[Aba de PETR4](docs/screenshots/BR-tab.PNG)
+
+![Comparativo](docs/screenshots/Comparação.png)
+
+![Aba de notícias](docs/screenshots/news.png)
 
 ### Como capturar (rápido)
 
