@@ -144,9 +144,9 @@ Salve as capturas em `docs/screenshots/` para que apareçam no README.
 
 ![Aba de ITUB4](docs/screenshots/Itau-tab.PNG)
 
-[Aba de VALE3](docs/screenshots/Vale-tab.PNG)
+![Aba de VALE3](docs/screenshots/Vale-tab.PNG)
 
-[Aba de PETR4](docs/screenshots/BR-tab.PNG)
+![Aba de PETR4](docs/screenshots/BR-tab.PNG)
 
 ![Comparativo](docs/screenshots/Comparação.png)
 
