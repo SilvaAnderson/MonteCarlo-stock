@@ -148,9 +148,9 @@ Salve as capturas em `docs/screenshots/` para que apareçam no README.
 
 ![Aba de PETR4](docs/screenshots/BR-tab.PNG)
 
-![Comparativo](docs/screenshots/Comparação.png)
+![Aba de Comparativo](docs/screenshots/Comparativo.PNG)
 
-![Aba de notícias](docs/screenshots/news.png)
+![Aba de notícias](docs/screenshots/news.PNG)
 
 ### Como capturar (rápido)
 
